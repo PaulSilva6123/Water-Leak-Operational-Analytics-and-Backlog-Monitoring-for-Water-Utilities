@@ -8,12 +8,12 @@ Using Python, Microsoft Access, ArcGIS Online, and ArcGIS Dashboards, I develope
 
 ## Dashboard Highlights
 The dashboard provided a centralized operational view of leak activity by integrating work order information from Microsoft Access with GIS. Leadership could monitor active leaks, backlog aging, response times, leak categories, and trends in incoming versus resolved work to support timely decision-making.
-•	Total count of unresolved leaks.
-•	Open leaks categorized by aging intervals (30, 60, and 90 days).
-•	Color-coded leak locations displayed on an interactive map.
-•	Daily trends comparing incoming versus fixed leaks.
-•	Weekly trends identifying developing backlogs.
-•	Leak distributions by asset type:
+- Total count of unresolved leaks.
+- Open leaks categorized by aging intervals (30, 60, and 90 days).
+- Color-coded leak locations displayed on an interactive map.
+- Daily trends comparing incoming versus fixed leaks.
+- Weekly trends identifying developing backlogs.
+- Leak distributions by asset type.
 
 ![Leak Operations Dashboard](leak-operations-dashboard.png)
 
